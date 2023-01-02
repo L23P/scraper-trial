@@ -400,9 +400,9 @@ FodyWeavers.xsd
 
 # Un-necessary files 
 /amazon-scraper
-/amzscraper.log
-/asins.csv
-/proxies.xlsx
-/result.csv
+amzscraper.log
+asins.csv
+proxies.xlsx
+result.csv
 
 
